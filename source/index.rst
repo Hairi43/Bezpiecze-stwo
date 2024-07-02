@@ -10,7 +10,7 @@ Welcome to Bezpieczeństwo's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+   Bezpieczenstwo
 
 Indices and tables
 ==================
